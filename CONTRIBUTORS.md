@@ -1,1 +1,2 @@
-[Lars3n95](https://github.com/Lars3n95) 
+- [Lars3n95](https://github.com/Lars3n95): english, german
+- [ThisIsATestingAccount1](https://github.com/ThisIsATestingAccount1): Contributors file
