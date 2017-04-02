@@ -12,8 +12,8 @@ With uploading your translations you are giving me all the rights to use/modify/
 #### What you have to do
 1. Create a GitHub account
 2. Go to https://github.com/Lars3n95/Notify-me/
-3. Click 'Create new file'
-4. Name of your file: values-abbreviation/strings.xml (example: values-es/strings.xml for spanish translation)
+3. Click **Create new file**
+4. Name of your file: *values-abbreviation/strings.xml* (example: *values-es/strings.xml* for spanish translation)
 5. Insert the content of values/strings.xml 
 6. Translate all the content
    
@@ -21,10 +21,10 @@ With uploading your translations you are giving me all the rights to use/modify/
    You only have to translate the "Value".
 
 7. Add a title and description at the bottom of the page if you like or need to
-8. "Propose new file"
-9. "Create pull request"
+8. Click **Propose new file**
+9. Click **Create pull request**
 10. Write a comment if you like or need to
-11. "Create pull request"
+11. Click **Create pull request**
 12. Wait...
 
 #### What I have to do
