@@ -13,7 +13,7 @@ With uploading your translations you are giving me all the rights to use/modify/
 1. [Create a GitHub account](https://github.com/join) if you dont have yet 
 2. Go to [https://github.com/Lars3n95/Notify-me/](https://github.com/Lars3n95/Notify-me/)
 3. Click **Create new file**
-4. Name of your file: *values-abbreviation/strings.xml* (example: *values-es/strings.xml* for spanish translation)
+4. Name: *values-abbreviation/strings.xml* (example: *values-es/strings.xml* for spanish translation. [ISO 639-1 abbrevations](https://www.loc.gov/standards/iso639-2/php/code_list.php))
 5. Insert the content of values/strings.xml 
 6. Translate all the content
    
