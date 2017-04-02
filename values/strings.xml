@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Notify me</string>
+
+    <string name="shared_preferences_loading_error">Loading error</string>
+
+    <string name="sticky_notification_add_notification_title">Add notification</string>
+    <string name="sticky_notification_add_notification_description">Click to add a notification</string>
+    <string name="bundled_notification_notification">Notification</string>
+    <string name="bundled_notification_notifications">Notifications</string>
+
+    <string name="options_menu_clear_all">Clear all</string>
+    <string name="options_menu_settings">Settings</string>
+    <string name="options_menu_about">About</string>
+
+    <string name="apprater_title">Rate Notify me?</string>
+    <string name="apprater_message">If you enjoy using Notify me, please take a moment to rate it.\nThanks for your support!</string>
+    <string name="apprater_rate">Rate</string>
+    <string name="apprater_later">Later</string>
+    <string name="apprater_no">No, sorry</string>
+
+    <string name="receiver_repeating_dialog">Notify me - Repeating alarm</string>
+    <string name="receiver_repeating_dialog_message">This notification has a repeating alarm. Swiping away won\'t stop this alarm. Click \'Remove\' to stop the alarm.</string>
+    <string name="receiver_repeating_dialog_understood">OK</string>
+    <string name="receiver_repeating_dialog_remember">Remember</string>
+
+    <string name="tab_layout_current_notifications">Current</string>
+    <string name="tab_layout_current_notifications_icon">Notification Icon</string>
+    <string name="tab_layout_current_notifications_no_notifications">No Notifications</string>
+    <string name="tab_layout_removed_notifications">Removed</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning">Many notifications</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning_text">You already have many notifications. Are you sure you want to add another one?</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning_understood">Yes</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning_cancel">No</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_error">Too many notifications</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_error_text">I\'m sorry you already have so many notifications. Even more wouldn\'t be good for your battery and Android does not support an infinity number of notifications :(</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_error_understood">OK</string>
+
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning">Many removed notifications</string>
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning_text">You have many removed notifications. Delete them for better performance.</string>
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning_delete_all">Delete all</string>
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning_cancel">Later</string>
+
+    <string name="notification_action_snooze">Snooze</string>
+    <string name="notification_action_edit">Edit</string>
+    <string name="notification_action_remove">Remove</string>
+    <string name="notification_action_share">Share</string>
+    <string name="notification_action_bundle">Bundle Notifications</string>
+    <string name="notification_action_unbundle">Separate Notifications</string>
+
+    <string name="notification_data_duplicate">Duplicate notification</string>
+    <string name="notification_data_share">Share notification</string>
+    <string name="notification_data_share_chooser">Choose app</string>
+    <string name="notification_data_edit">Edit notification</string>
+    <string name="notification_data_remove">Remove notification</string>
+    <string name="notification_data_restore">Restore notification</string>
+    <string name="notification_data_delete">Delete notification</string>
+
+    <string name="fragment_add_notification_snackbar">Don\'t like the default settings? Change them in the \'Settings\'</string>
+    <string name="fragment_add_notification_snackbar_understood">OK</string>
+    <string name="fragment_add_notification_title_hint">Title</string>
+    <string name="fragment_add_notification_title_error">Please insert a title</string>
+    <string name="fragment_add_notification_description_hint">Description</string>
+    <string name="fragment_add_notification_delete_on_click">Remove notification by clicking it</string>
+    <string name="fragment_add_notification_permanent_notification">The notification cannot be swiped away</string>
+    <string name="fragment_add_notification_start_external_app">Open a different app on click</string>
+    <string name="fragment_add_notification_start_external_app_icon">App icon</string>
+    <string name="fragment_add_notification_loading_external_apps">Loading..</string>
+    <string name="fragment_add_notification_app_name_not_found">App name not found</string>
+    <string name="fragment_add_notification_notification_icon">Notification icon</string>
+    <string name="fragment_add_notification_notification_sound">Notification sound</string>
+    <string name="fragment_add_notification_notification_sound_silent">Silent</string>
+    <string name="fragment_add_notification_choose_icon">Choose an icon</string>
+    <string name="fragment_add_notification_choose_icon_explanation_color">Independent of your chosen theme the icon will be white in the notification bar.</string>
+    <string name="fragment_add_notification_notification_background_color">Notification background color</string>
+    <string name="fragment_add_notification_heads_up_notification">Heads-Up Notification</string>
+    <string name="fragment_add_notification_notification_alarm">Set alarm</string>
+    <string name="fragment_add_notification_notification_alarm_remove">Remove alarm</string>
+    <string name="fragment_add_notification_alarm_today">Today</string>
+    <string name="fragment_add_notification_alarm_tomorrow">Tomorrow</string>
+    <string name="fragment_add_notification_alarm_daily">Daily</string>
+    <string name="fragment_add_notification_alarm_weekly">Weekly</string>
+    <string name="fragment_add_notification_alarm_monthly">Monthly</string>
+    <string name="fragment_add_notification_alarm_before_current_time">Date is in the past. Notification will be displayed immediately.</string>
+    <string name="fragment_add_notification_alarm_repeating_not_set">Please select at least one date.</string>
+    <string name="fragment_add_notification_monday">Mo</string>
+    <string name="fragment_add_notification_tuesday">Tu</string>
+    <string name="fragment_add_notification_wednesday">We</string>
+    <string name="fragment_add_notification_thursday">Th</string>
+    <string name="fragment_add_notification_friday">Fr</string>
+    <string name="fragment_add_notification_saturday">Sa</string>
+    <string name="fragment_add_notification_sunday">Su</string>
+    <string name="fragment_add_notification_advanced_settings">Advanced</string>
+    <string name="fragment_add_notification_more_information">What do all these settings mean?</string>
+    <string name="fragment_add_notification_more_information_dialog_title">More information</string>
+    <string name="fragment_add_notification_more_information_icon">Icon: Change the icon (the shopping cart in the example above)</string>
+    <string name="fragment_add_notification_more_information_title">Title: Choose the title (\"Shopping\" in the example above)</string>
+    <string name="fragment_add_notification_more_information_sound">Sound: Change the notification sound</string>
+    <string name="fragment_add_notification_more_information_description">Description: Choose the description (\"Bread, Water, Cheese\" in the example above)</string>
+    <string name="fragment_add_notification_more_information_alarm">Alarm: Makes it possible to show the notification at a specific time in the future (repetitions possible)</string>
+    <string name="fragment_add_notification_more_information_delete_on_click">Remove by clicking: The notification will be removed if it is clicked in the notification bar (exception: repeating notifications)</string>
+    <string name="fragment_add_notification_more_information_permanent_notification">Not swipe: The notification cannot be removed by swiping it in the notification bar</string>
+    <string name="fragment_add_notification_more_information_start_external_app">Open different app: A different app will be opened by clicking the notification</string>
+    <string name="fragment_add_notification_more_information_background_color">Background color: Change the color (1. notification above: default, 2. notification above: Red)</string>
+    <string name="fragment_add_notification_more_information_heads_up">Heads up: The notification will be displayed above your current app for a short time (only working with alarm)</string>
+
+    <string name="fragment_edit_notification_description_hint">Description</string>
+    <string name="fragment_edit_notification_delete_on_click">Remove notification by clicking it</string>
+    <string name="fragment_edit_notification_permanent_notification">The notification cannot be swiped away</string>
+    <string name="fragment_edit_notification_start_external_app">Open a different app on click</string>
+    <string name="fragment_edit_notification_start_external_app_icon">App icon</string>
+    <string name="fragment_edit_notification_notification_background_color">Notification background color</string>
+
+    <string name="fragment_settings_theme_header">Theme</string>
+    <string name="fragment_settings_theme_description">Enable Dark Theme</string>
+    <string name="fragment_settings_default_notification_header">Default Notification</string>
+    <string name="fragment_settings_default_notification_description">Choose the default settings, which are set when creating a new notification</string>
+    <string name="fragment_settings_notification_delete_on_click">Remove notification by clicking it</string>
+    <string name="fragment_settings_notification_permanent_notification">The notification cannot be swiped away</string>
+    <string name="fragment_settings_notification_start_external_app">Open a different app on click</string>
+    <string name="fragment_settings_notification_start_external_app_icon">App icon</string>
+    <string name="fragment_settings_notification_notification_icon">Notification icon</string>
+    <string name="fragment_settings_notification_notification_sound">Notification sound</string>
+    <string name="fragment_settings_notification_notification_background_color">Notification background color</string>
+    <string name="fragment_settings_notification_choose_color">Choose a background color</string>
+    <string name="fragment_settings_notification_close_app_after_add">Close the app after adding or editing the notification</string>
+    <string name="fragment_settings_action_buttons">Action buttons</string>
+    <string name="fragment_settings_action_buttons_description">Choose the displayed action buttons (max. 3)</string>
+    <string name="fragment_settings_other_settings">Other settings</string>
+    <string name="fragment_settings_notification_sticky_notification">Show a sticky notification for quick access</string>
+    <string name="fragment_settings_notification_exact_alarm">Schedule alarm precisely (increases battery power). If not checked an alarm can have a delay up to 15 minutes.</string>
+    <string name="fragment_settings_snooze_duration">Snooze duration</string>
+    <string name="fragment_settings_change_notification_visibility">Notifications on lock screen</string>
+    <string name="fragment_settings_change_notification_visibility_text">You can change the visibility of notifications on the lock screen in the Android settings. You can decide whether to show all details of notifications or hide the details. The setting is called something like \"When device is locked\" (can be different on your device).</string>
+    <string name="fragment_settings_rate_app">Rate app</string>
+    <string name="fragment_settings_rate_app_text">If you enjoy using Notify me, please take a moment to rate it. Click here to rate.</string>
+
+    <string name="fragment_about_title">About me</string>
+    <string name="fragment_about_name">Contact:\nLars Fessen</string>
+    <string name="fragment_about_email">E-Mail:\n___</string>
+    <string name="fragment_about_more_apps">More Apps:</string>
+    <string name="fragment_about_zahlenspiel">Numbers Game (click here)</string>
+    <string name="fragment_about_flinkestippen">Fast Typing (click here)</string>
+    <string name="fragment_about_fizzbuzz">FizzBuzz (click here)</string>
+    <string name="fragment_about_app_title">About the app</string>
+    <string name="fragment_about_version">Version:</string>
+    <string name="fragment_about_libraries">Libraries:</string>
+
+    <string name="context_menu_cancel">Cancel</string>
+
+    <string name="notification_icons_cancel">Cancel</string>
+    <string name="notification_color_cancel">Cancel</string>
+
+    <string name="icon_list_icon">Icon</string>
+    <string name="color_list_color">Color</string>
+
+    <string name="dialog_delete_all_title">Delete removed notifications</string>
+    <string name="dialog_delete_all_message">Do you really want to delete all removed notifications? They cannot be restored.</string>
+    <string name="dialog_delete_all_yes">Yes</string>
+    <string name="dialog_delete_all_no">No</string>
+    <string name="dialog_delete_notification_title">Delete notification</string>
+    <string name="dialog_delete_notification_message">Do you really want to delete this notification? It cannot be restored.</string>
+    <string name="dialog_delete_notification_yes">Yes</string>
+    <string name="dialog_delete_notification_no">No</string>
+
+
+    <string-array name="repeat_spinner_items">
+        <item>Do not repeat</item>
+        <item>Repeat Daily</item>
+        <item>Repeat Weekly</item>
+        <item>Repeat Monthly</item>
+    </string-array>
+
+    <string-array name="repeat_interval_spinner_items">
+        <item>Every</item>
+        <item>Every 2</item>
+        <item>Every 3</item>
+        <item>Every 4</item>
+        <item>Every 5</item>
+        <item>Every 6</item>
+        <item>Every 7</item>
+        <item>Every 8</item>
+        <item>Every 9</item>
+        <item>Every 10</item>
+        <item>Every 11</item>
+        <item>Every 12</item>
+        <item>Every 13</item>
+        <item>Every 14</item>
+        <item>Every 15</item>
+        <item>Every 16</item>
+        <item>Every 17</item>
+        <item>Every 18</item>
+        <item>Every 19</item>
+        <item>Every 20</item>
+        <item>Every 21</item>
+        <item>Every 22</item>
+        <item>Every 23</item>
+        <item>Every 24</item>
+        <item>Every 25</item>
+        <item>Every 26</item>
+        <item>Every 27</item>
+        <item>Every 28</item>
+        <item>Every 29</item>
+        <item>Every 30</item>
+        <item>Every 31</item>
+    </string-array>
+</resources>
