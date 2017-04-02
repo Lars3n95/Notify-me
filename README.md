@@ -16,6 +16,7 @@ With uploading your translations you are giving me all the rights to use/modify/
 4. Name of your file: values-abbreviation/strings.xml (example: values-es/strings.xml for spanish translation)
 5. Insert the content of values/strings.xml 
 6. Translate all the content
+   
    The xml is structure like this: `<string name="key">Value</string>`
    You only have to translate the "Value".
 
