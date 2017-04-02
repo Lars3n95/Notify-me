@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">Notify me</string>
+
+    <string name="shared_preferences_loading_error">Laden fehlgeschlagen</string>
+
+    <string name="sticky_notification_add_notification_title">Benachrichtigung hinzufügen</string>
+    <string name="sticky_notification_add_notification_description">Klicke um eine Benachrichtigung hinzuzufügen</string>
+    <string name="bundled_notification_notification">Benachrichtigung</string>
+    <string name="bundled_notification_notifications">Benachrichtigungen</string>
+
+    <string name="options_menu_clear_all">Entferne alle</string>
+    <string name="options_menu_settings">Einstellungen</string>
+    <string name="options_menu_about">Kontakt</string>
+
+    <string name="apprater_title">Bewerte Notify me?</string>
+    <string name="apprater_message">Wenn dir Notify me gefällt, nimm dir einen Moment Zeit und bewerte es. \nDanke für die Unterstützung!</string>
+    <string name="apprater_rate">Bewerten</string>
+    <string name="apprater_later">Später</string>
+    <string name="apprater_no">Nein, sorry</string>
+
+    <string name="receiver_repeating_dialog">Notify me - Wiederholender Alarm</string>
+    <string name="receiver_repeating_dialog_message">Der Benachrichtigungsalarm ist wiederholend. Wegwischen stoppt nicht den Alarm. Klicke \'Entfernen\' um den Alarm zu stoppen.</string>
+    <string name="receiver_repeating_dialog_understood">OK</string>
+    <string name="receiver_repeating_dialog_remember">Verstanden</string>
+
+    <string name="tab_layout_current_notifications">Aktuell</string>
+    <string name="tab_layout_current_notifications_icon">Benachrichtigungs Icon</string>
+    <string name="tab_layout_current_notifications_no_notifications">Keine Benachrichtigungen</string>
+    <string name="tab_layout_removed_notifications">Entfernt</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning">Viele Benachrichtigungen</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning_text">Du hast bereits viele Benachrichtigungen. Bist du sicher, dass du noch eine hinzufügen möchtest?</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning_understood">Ja</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_warning_cancel">Nein</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_error">Zu viele Benachrichtigungen</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_error_text">Du hast bereits zu viele Benachrichtigungen. Noch mehr wäre nicht gut für die Akkulaufzeit und Android unterstützt keine unendliche Anzahl von Benachrichtigungen :(</string>
+    <string name="tab_layout_current_notifications_number_of_notifications_error_understood">OK</string>
+
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning">Viele entfernte Benachrichtigungen</string>
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning_text">Du hast viele entfernte Benachrichtigungen. Lösche sie für eine bessere Performance.</string>
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning_delete_all">Alle löschen</string>
+    <string name="tab_layout_removed_notifications_number_of_notifications_warning_cancel">Später</string>
+
+    <string name="notification_action_snooze">Schlummern</string>
+    <string name="notification_action_edit">Bearbeiten</string>
+    <string name="notification_action_remove">Entfernen</string>
+    <string name="notification_action_share">Teilen</string>
+    <string name="notification_action_bundle">Benachrichtigungen zusammenfassen</string>
+    <string name="notification_action_unbundle">Benachrichtigungen trennen</string>
+
+    <string name="notification_data_duplicate">Benachrichtigung duplizieren</string>
+    <string name="notification_data_share">Benachrichtigung teilen</string>
+    <string name="notification_data_share_chooser">App auswählen</string>
+    <string name="notification_data_edit">Benachrichtigung bearbeiten</string>
+    <string name="notification_data_remove">Benachrichtigung entfernen</string>
+    <string name="notification_data_restore">Benachrichtigung wiederherstellen</string>
+    <string name="notification_data_delete">Benachrichtigung löschen</string>
+
+    <string name="fragment_add_notification_snackbar">Standardeinstelungen nicht passend? Ändere sie in den \'Einstellungen\'</string>
+    <string name="fragment_add_notification_snackbar_understood">OK</string>
+    <string name="fragment_add_notification_title_hint">Titel</string>
+    <string name="fragment_add_notification_title_error">Bitte einen Titel eingeben</string>
+    <string name="fragment_add_notification_description_hint">Beschreibung</string>
+    <string name="fragment_add_notification_delete_on_click">Benachrichtigung beim Klick entfernen</string>
+    <string name="fragment_add_notification_permanent_notification">Benachrichtigung nicht wegwischbar</string>
+    <string name="fragment_add_notification_start_external_app">Andere App beim Klick öffnen</string>
+    <string name="fragment_add_notification_start_external_app_icon">App Icon</string>
+    <string name="fragment_add_notification_loading_external_apps">Lade..</string>
+    <string name="fragment_add_notification_app_name_not_found">App Name nicht gefunden</string>
+    <string name="fragment_add_notification_notification_icon">Benachrichtigungs-Icon</string>
+    <string name="fragment_add_notification_notification_sound">Benachrichtigungs-Sound</string>
+    <string name="fragment_add_notification_notification_sound_silent">Lautlos</string>
+    <string name="fragment_add_notification_choose_icon">Wähle ein Icon</string>
+    <string name="fragment_add_notification_choose_icon_explanation_color">Unabhängig vom gewählten Design wird das Icon in der Benachrichtigungsleiste weiß sein.</string>
+    <string name="fragment_add_notification_notification_background_color">Benachrichtigungs-Hintergrundfarbe</string>
+    <string name="fragment_add_notification_heads_up_notification">Heads-Up Benachrichtigung</string>
+    <string name="fragment_add_notification_notification_alarm">Alarm setzen</string>
+    <string name="fragment_add_notification_notification_alarm_remove">Alarm löschen</string>
+    <string name="fragment_add_notification_alarm_today">Heute</string>
+    <string name="fragment_add_notification_alarm_tomorrow">Morgen</string>
+    <string name="fragment_add_notification_alarm_daily">Täglich</string>
+    <string name="fragment_add_notification_alarm_weekly">Wöchentlich</string>
+    <string name="fragment_add_notification_alarm_monthly">Monatlich</string>
+    <string name="fragment_add_notification_alarm_before_current_time">Datum ist in der Vergangenheit. Benachrichtigung wird direkt angezeigt.</string>
+    <string name="fragment_add_notification_alarm_repeating_not_set">Bitte wähle mindestens einen Wochentag.</string>
+    <string name="fragment_add_notification_monday">Mo</string>
+    <string name="fragment_add_notification_tuesday">Di</string>
+    <string name="fragment_add_notification_wednesday">Mi</string>
+    <string name="fragment_add_notification_thursday">Do</string>
+    <string name="fragment_add_notification_friday">Fr</string>
+    <string name="fragment_add_notification_saturday">Sa</string>
+    <string name="fragment_add_notification_sunday">So</string>
+    <string name="fragment_add_notification_advanced_settings">Erweitert</string>
+    <string name="fragment_add_notification_more_information">Was bedeuten die ganzen Einstellungen?</string>
+    <string name="fragment_add_notification_more_information_dialog_title">Weitere Informationen</string>
+    <string name="fragment_add_notification_more_information_icon">Icon: Ändert das Icon (Einkaufswagen im Beispiel oben)</string>
+    <string name="fragment_add_notification_more_information_title">Titel: Setzt den Titel (\"Einkaufen\" im Beispiel oben)</string>
+    <string name="fragment_add_notification_more_information_sound">Sound: Ändere den Benachrichtigungston</string>
+    <string name="fragment_add_notification_more_information_description">Beschreibung: Setzt die Beschreibung (\"Brot, Wasser, Käse\" im Beispiel oben)</string>
+    <string name="fragment_add_notification_more_information_alarm">Alarm: Ermöglicht, die Benachrichtigung zu einem späteren Zeitpunkt anzuzeigen (inklusive Wiederholungen)</string>
+    <string name="fragment_add_notification_more_information_delete_on_click">Beim Klick entfernen: Die Benachrichtigung wird entfernt, wenn man sie in der Benachrichtigungsleiste anklickt (Ausnahme: Wiederholende Benachrichtigungen)</string>
+    <string name="fragment_add_notification_more_information_permanent_notification">Nicht wegwischbar: Die Benachrichtigung kann nicht durch ein Wischen von der einen zur anderen Seite entfernt werden</string>
+    <string name="fragment_add_notification_more_information_start_external_app">Andere App öffnen: Beim Klick auf die Benachrichtigung in der Benachrichtigungsleiste wird eine andere App geöffnet</string>
+    <string name="fragment_add_notification_more_information_background_color">Hintergrundfarbe: Setzt die Farbe (1. Beispiel oben: Standard, 2. Beispiel oben: Rot)</string>
+    <string name="fragment_add_notification_more_information_heads_up">Heads up: Die Benachrichtigung wird kurz über der aktuell geöffneten App angezeigt (nur wenn ein Alarm gesetzt ist)</string>
+
+    <string name="fragment_edit_notification_description_hint">Beschreibung</string>
+    <string name="fragment_edit_notification_delete_on_click">Benachrichtigung beim Klick entfernen</string>
+    <string name="fragment_edit_notification_permanent_notification">Benachrichtigung nicht wegwischbar</string>
+    <string name="fragment_edit_notification_start_external_app">Andere App beim Klick öffnen</string>
+    <string name="fragment_edit_notification_start_external_app_icon">App Icon</string>
+    <string name="fragment_edit_notification_notification_background_color">Benachrichtigungs-Hintergrundfarbe</string>
+
+    <string name="fragment_settings_theme_header">Design</string>
+    <string name="fragment_settings_theme_description">Dark Theme aktivieren</string>
+    <string name="fragment_settings_default_notification_header">Standard Benachrichtigung</string>
+    <string name="fragment_settings_default_notification_description">Ändere die Standardeinstellungen, welche beim Hinzufügen einer neuen Benachrichtigung gesetzt sind.</string>
+    <string name="fragment_settings_notification_delete_on_click">Benachrichtigung beim Klick entfernen</string>
+    <string name="fragment_settings_notification_permanent_notification">Benachrichtigung nicht wegwischbar</string>
+    <string name="fragment_settings_notification_start_external_app">Andere App beim Klick öffnen</string>
+    <string name="fragment_settings_notification_start_external_app_icon">App Icon</string>
+    <string name="fragment_settings_notification_notification_icon">Benachrichtigungs-Icon</string>
+    <string name="fragment_settings_notification_notification_sound">Benachrichtigungs-Sound</string>
+    <string name="fragment_settings_notification_notification_background_color">Benachrichtigungs-Hintergrundfarbe</string>
+    <string name="fragment_settings_notification_choose_color">Wähle eine Hintergrundfarbe</string>
+    <string name="fragment_settings_notification_close_app_after_add">App schließen nach Hinzufügen oder Bearbeiten</string>
+    <string name="fragment_settings_action_buttons">Action buttons</string>
+    <string name="fragment_settings_action_buttons_description">Wähle die dargestellten Action Buttons (max. 3)</string>
+    <string name="fragment_settings_other_settings">Weitere Einstellungen</string>
+    <string name="fragment_settings_notification_sticky_notification">Permanente Benachrichtigung zum Hinzufügen neuer Benachrichtigungen anzeigen</string>
+    <string name="fragment_settings_notification_exact_alarm">Alarm präzise ausführen (erhöhter Batterieverbrauch). Deaktiviert kann die Verzögerung bis zu 15 Minuten betragen.</string>
+    <string name="fragment_settings_snooze_duration">Schlummern</string>
+    <string name="fragment_settings_change_notification_visibility">Benachrichtigung im Sperrbildschirm</string>
+    <string name="fragment_settings_change_notification_visibility_text">Du kannst die Sichtbarkeit von Benachrichtigungen im Sperrbildschirm in den Android Einstellungen ändern. Du kannst wählen, ob alle Details gezeigt werden sollen oder nicht. Die Einstellung lautet \'Bei gesperrtem Gerät\' (Bezeichnung von Gerät zu Gerät verschieden).</string>
+    <string name="fragment_settings_rate_app">App bewerten</string>
+    <string name="fragment_settings_rate_app_text">Wenn dir Notify me gefällt, nimm dir einen Moment Zeit und bewerte es. Klick hier zum bewerten.</string>
+
+    <string name="fragment_about_title">Über mich</string>
+    <string name="fragment_about_name">Kontakt:\nLars Fessen</string>
+    <string name="fragment_about_email">E-Mail:\n___</string>
+    <string name="fragment_about_more_apps">Weitere Apps:</string>
+    <string name="fragment_about_zahlenspiel">Zahlenspiel (hier klicken)</string>
+    <string name="fragment_about_flinkestippen">Flinkes Tippen (hier klicken)</string>
+    <string name="fragment_about_fizzbuzz">FizzBuzz (hier klicken)</string>
+    <string name="fragment_about_app_title">Über die App</string>
+    <string name="fragment_about_version">Version:</string>
+    <string name="fragment_about_libraries">Bibliotheken:</string>
+
+    <string name="context_menu_cancel">Abbrechen</string>
+
+    <string name="notification_icons_cancel">Abbrechen</string>
+    <string name="notification_color_cancel">Abbrechen</string>
+
+    <string name="icon_list_icon">Icon</string>
+    <string name="color_list_color">Farbe</string>
+
+    <string name="dialog_delete_all_title">Lösche entfernte Benachrichtigungen</string>
+    <string name="dialog_delete_all_message">Möchtest du wirklich alle entfernten Benachrichtigungen löschen? Das kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_delete_all_yes">Ja</string>
+    <string name="dialog_delete_all_no">Nein</string>
+    <string name="dialog_delete_notification_title">Benachrichtigung löschen</string>
+    <string name="dialog_delete_notification_message">Möchtest du wirklich diese Benachrichtigung löschen? Das kann nicht rückgängig gemacht werden.</string>
+    <string name="dialog_delete_notification_yes">Ja</string>
+    <string name="dialog_delete_notification_no">Nein</string>
+
+
+    <string-array name="repeat_spinner_items">
+        <item>Nicht wiederholen</item>
+        <item>Täglich wiederholen</item>
+        <item>Wöchentlich wiederholen</item>
+        <item>Monatlich wiederholen</item>
+    </string-array>
+
+    <string-array name="repeat_interval_spinner_items">
+        <item>Immer</item>
+        <item>Alle 2</item>
+        <item>Alle 3</item>
+        <item>Alle 4</item>
+        <item>Alle 5</item>
+        <item>Alle 6</item>
+        <item>Alle 7</item>
+        <item>Alle 8</item>
+        <item>Alle 9</item>
+        <item>Alle 10</item>
+        <item>Alle 11</item>
+        <item>Alle 12</item>
+        <item>Alle 13</item>
+        <item>Alle 14</item>
+        <item>Alle 15</item>
+        <item>Alle 16</item>
+        <item>Alle 17</item>
+        <item>Alle 18</item>
+        <item>Alle 19</item>
+        <item>Alle 20</item>
+        <item>Alle 21</item>
+        <item>Alle 22</item>
+        <item>Alle 23</item>
+        <item>Alle 24</item>
+        <item>Alle 25</item>
+        <item>Alle 26</item>
+        <item>Alle 27</item>
+        <item>Alle 28</item>
+        <item>Alle 29</item>
+        <item>Alle 30</item>
+        <item>Alle 31</item>
+    </string-array>
+</resources>
