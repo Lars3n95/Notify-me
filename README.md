@@ -7,7 +7,7 @@ If you want to translate the App Notify me, this repository is the right place. 
 
 With uploading your translations you are giving me all the rights to use/modify/delete them. If you want to remove your translations write me an email.
 
-## How does this work?
+## How can I contribute?
 
 #### What you have to do
 1. [Create a GitHub account](https://github.com/join) if you dont have yet 
