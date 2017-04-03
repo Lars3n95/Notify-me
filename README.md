@@ -14,7 +14,7 @@ With uploading your translations you are giving me all the rights to use/modify/
 2. Go to [https://github.com/Lars3n95/Notify-me/](https://github.com/Lars3n95/Notify-me/)
 3. Click **Create new file**
 4. Name: *values-abbreviation/strings.xml* (example: *values-es/strings.xml* for spanish translation. [ISO 639-1 abbreviations](https://www.loc.gov/standards/iso639-2/php/code_list.php))
-5. Insert the content of values/strings.xml 
+5. Insert the content of values/strings.xml (or values-de/strings.xml if you can translate it better from german)
 6. Translate all the content
    
    The xml is structure like this: `<string name="key">Value</string>`
