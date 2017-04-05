@@ -9,7 +9,9 @@ With uploading your translations you are giving me all the rights to use/modify/
 
 ## How can I contribute?
 
-#### What you have to do
+You can edit translations files (or this README) if you have found any mistakes or you can upload new translations files for a language, which is not existing yet.
+
+#### What you have to do to upload a new translation file
 1. [Create a GitHub account](https://github.com/join) if you dont have yet 
 2. Go to [https://github.com/Lars3n95/Notify-me/](https://github.com/Lars3n95/Notify-me/)
 3. Click **Create new file**
