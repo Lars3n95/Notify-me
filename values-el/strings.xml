@@ -121,6 +121,7 @@
     <string name="fragment_settings_notification_notification_icon">Εικονίδιο ειδοποίησης</string>
     <string name="fragment_settings_notification_notification_sound">Ήχος σήμανσης</string>
     <string name="fragment_settings_notification_notification_background_color">Χρώμα φόντου ειδοποίησης</string>
+    <string name="fragment_settings_notification_led_color">Χρώμα LED ίδιο με του φόντου\n(αν υποστηρίζεται)</string>
     <string name="fragment_settings_notification_choose_color">Επιλέξτε χρώμα φόντου</string>
     <string name="fragment_settings_notification_close_app_after_add">Κλείσιμο της εφαρμογής μετά τη δημιουργία ή επεξεργασία ειδοποιήσεως</string>
     <string name="fragment_settings_action_buttons">ΚΟΥΜΠΙΑ</string>
