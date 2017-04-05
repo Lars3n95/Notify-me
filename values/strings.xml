@@ -121,6 +121,7 @@
     <string name="fragment_settings_notification_notification_icon">Notification icon</string>
     <string name="fragment_settings_notification_notification_sound">Notification sound</string>
     <string name="fragment_settings_notification_notification_background_color">Notification background color</string>
+    <string name="fragment_settings_notification_led_color">LED color same as background color\n(if supported)</string>
     <string name="fragment_settings_notification_choose_color">Choose a background color</string>
     <string name="fragment_settings_notification_close_app_after_add">Close the app after adding or editing the notification</string>
     <string name="fragment_settings_action_buttons">Action buttons</string>
