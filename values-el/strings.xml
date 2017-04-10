@@ -136,8 +136,8 @@
     <string name="fragment_settings_rate_app_text">Αν σας αρέσει η εφαρμογή, παρακαλώ αξιολογήστε την. Πατήστε εδώ για να το κάνετε.</string>
 
     <string name="fragment_about_title">ΣΧΕΤΙΚΑ ΜΕ ΕΜΕΝΑ</string>
-    <string name="fragment_about_name">Επικοινωνία:\nLars Fessen</string>
-    <string name="fragment_about_email">E-Mail:\nkilaapps@gmail.com</string>
+    <string name="fragment_about_name">Επικοινωνία:\n___</string>
+    <string name="fragment_about_email">E-Mail:\n___</string>
     <string name="fragment_about_more_apps">Περισσότερες εφαρμογές:</string>
     <string name="fragment_about_zahlenspiel">Numbers Game (πατήστε εδώ)</string>
     <string name="fragment_about_flinkestippen">Fast Typing (πατήστε εδώ)</string>
