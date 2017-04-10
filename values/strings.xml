@@ -136,7 +136,7 @@
     <string name="fragment_settings_rate_app_text">If you enjoy using Notify me, please take a moment to rate it. Click here to rate.</string>
 
     <string name="fragment_about_title">About me</string>
-    <string name="fragment_about_name">Contact:\nLars Fessen</string>
+    <string name="fragment_about_name">Contact:\n___</string>
     <string name="fragment_about_email">E-Mail:\n___</string>
     <string name="fragment_about_more_apps">More Apps:</string>
     <string name="fragment_about_zahlenspiel">Numbers Game (click here)</string>
