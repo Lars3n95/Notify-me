@@ -114,94 +114,94 @@
     <string name="fragment_settings_theme_description">Activar tema oscuro</string>
     <string name="fragment_settings_default_notification_header">Ajustes de notificación</string>
     <string name="fragment_settings_default_notification_description">Selecciona los ajusted predeterminados que se usarán al crear nuevas notificaciones</string>
-    <string name="fragment_settings_notification_delete_on_click">Remove notification by clicking it</string>
-    <string name="fragment_settings_notification_permanent_notification">The notification cannot be swiped away</string>
-    <string name="fragment_settings_notification_start_external_app">Open a different app on click</string>
-    <string name="fragment_settings_notification_start_external_app_icon">App icon</string>
-    <string name="fragment_settings_notification_notification_icon">Notification icon</string>
-    <string name="fragment_settings_notification_notification_sound">Notification sound</string>
-    <string name="fragment_settings_notification_notification_background_color">Notification background color</string>
-    <string name="fragment_settings_notification_led_color">LED color same as background color\n(if supported)</string>
-    <string name="fragment_settings_notification_choose_color">Choose a background color</string>
-    <string name="fragment_settings_notification_close_app_after_add">Close the app after adding or editing the notification</string>
-    <string name="fragment_settings_action_buttons">Action buttons</string>
-    <string name="fragment_settings_action_buttons_description">Choose the displayed action buttons (max. 3)</string>
-    <string name="fragment_settings_other_settings">Other settings</string>
-    <string name="fragment_settings_notification_sticky_notification">Show a sticky notification for quick access</string>
-    <string name="fragment_settings_notification_exact_alarm">Schedule alarm precisely (increases battery power). If not checked an alarm can have a delay up to 15 minutes.</string>
-    <string name="fragment_settings_snooze_duration">Snooze duration</string>
-    <string name="fragment_settings_change_notification_visibility">Notifications on lock screen</string>
-    <string name="fragment_settings_change_notification_visibility_text">You can change the visibility of notifications on the lock screen in the Android settings. You can decide whether to show all details of notifications or hide the details. The setting is called something like \"When device is locked\" (can be different on your device).</string>
-    <string name="fragment_settings_rate_app">Rate app</string>
-    <string name="fragment_settings_rate_app_text">If you enjoy using Notify me, please take a moment to rate it. Click here to rate.</string>
+    <string name="fragment_settings_notification_delete_on_click">Eliminar notificación al pulsarla</string>
+    <string name="fragment_settings_notification_permanent_notification">La notificación no puede ser deslizada</string>
+    <string name="fragment_settings_notification_start_external_app">Abrir una aplicación diferente al pulsar</string>
+    <string name="fragment_settings_notification_start_external_app_icon">Icono de app</string>
+    <string name="fragment_settings_notification_notification_icon">Icono de notificación</string>
+    <string name="fragment_settings_notification_notification_sound">Sonido de notificación</string>
+    <string name="fragment_settings_notification_notification_background_color">Color de fondo de la notificación</string>
+    <string name="fragment_settings_notification_led_color">Color LED igual que el color de fondo\n(si lo admite)</string>
+    <string name="fragment_settings_notification_choose_color">Selecciona el color de fondo</string>
+    <string name="fragment_settings_notification_close_app_after_add">Cerrar la app después de agregar o editar la notificación</string>
+    <string name="fragment_settings_action_buttons">Botones de acción</string>
+    <string name="fragment_settings_action_buttons_description">Selecciona los botones de acción para mostrar (max. 3)</string>
+    <string name="fragment_settings_other_settings">Otros ajustes</string>
+    <string name="fragment_settings_notification_sticky_notification">Muestra una notificación fija para rápido acceso</string>
+    <string name="fragment_settings_notification_exact_alarm">Programar la alarma con precisión (aumenta el poder de la batería). Si no está marcada, la alarma puede tener un retraso de hasta de 15 minutos.</string>
+    <string name="fragment_settings_snooze_duration">Duración de la repetición</string>
+    <string name="fragment_settings_change_notification_visibility">Notificaciones en la pantalla de bloqueo</string>
+    <string name="fragment_settings_change_notification_visibility_text">Puedes cambiar la visibilidad de las notificaciones en la pantalla de bloqueo en los ajustes de Android. Puedes decidir mostrar o no los detalles de las notificaciones. El ajuste se llama algo como \"Cuando el dispositivo está bloqueado\" (puede ser diferente en tu dispositivo).</string>
+    <string name="fragment_settings_rate_app">Calificar app</string>
+    <string name="fragment_settings_rate_app_text">Si te gusta usar Notify me, por favor toma un momento para calificarla. Pulsa aquí para calificarla.</string>
 
-    <string name="fragment_about_title">About me</string>
-    <string name="fragment_about_name">Contact:\nLars Fessen</string>
+    <string name="fragment_about_title">Acerca de mí</string>
+    <string name="fragment_about_name">Contacto:\nLars Fessen</string>
     <string name="fragment_about_email">E-Mail:\n___</string>
-    <string name="fragment_about_more_apps">More Apps:</string>
-    <string name="fragment_about_zahlenspiel">Numbers Game (click here)</string>
-    <string name="fragment_about_flinkestippen">Fast Typing (click here)</string>
-    <string name="fragment_about_fizzbuzz">FizzBuzz (click here)</string>
-    <string name="fragment_about_app_title">About the app</string>
-    <string name="fragment_about_version">Version:</string>
+    <string name="fragment_about_more_apps">Más Apps:</string>
+    <string name="fragment_about_zahlenspiel">Numbers Game (pulsa aquí)</string>
+    <string name="fragment_about_flinkestippen">Fast Typing (pulsa aquí)</string>
+    <string name="fragment_about_fizzbuzz">FizzBuzz (pulsa aquí)</string>
+    <string name="fragment_about_app_title">Acerca de la app</string>
+    <string name="fragment_about_version">Versión:</string>
     <string name="fragment_about_libraries">Libraries:</string>
 
-    <string name="context_menu_cancel">Cancel</string>
+    <string name="context_menu_cancel">Cancelar</string>
 
-    <string name="notification_icons_cancel">Cancel</string>
-    <string name="notification_color_cancel">Cancel</string>
+    <string name="notification_icons_cancel">Cancelar</string>
+    <string name="notification_color_cancel">Cancelar</string>
 
-    <string name="icon_list_icon">Icon</string>
+    <string name="icon_list_icon">Icono</string>
     <string name="color_list_color">Color</string>
 
-    <string name="dialog_delete_all_title">Delete removed notifications</string>
-    <string name="dialog_delete_all_message">Do you really want to delete all removed notifications? They cannot be restored.</string>
-    <string name="dialog_delete_all_yes">Yes</string>
+    <string name="dialog_delete_all_title">Eliminar notificaciones definitivamente</string>
+    <string name="dialog_delete_all_message">¿Realmente quieres eliminar definitivamente todas las notificaciones eliminadas? No podrán ser restauradas después.</string>
+    <string name="dialog_delete_all_yes">Sí</string>
     <string name="dialog_delete_all_no">No</string>
-    <string name="dialog_delete_notification_title">Delete notification</string>
-    <string name="dialog_delete_notification_message">Do you really want to delete this notification? It cannot be restored.</string>
-    <string name="dialog_delete_notification_yes">Yes</string>
+    <string name="dialog_delete_notification_title">Eliminar notificación</string>
+    <string name="dialog_delete_notification_message">¿Realmente quieres eliminar esta notificación? No podrá ser restaurada después.</string>
+    <string name="dialog_delete_notification_yes">Sí</string>
     <string name="dialog_delete_notification_no">No</string>
 
 
     <string-array name="repeat_spinner_items">
-        <item>Do not repeat</item>
-        <item>Repeat Daily</item>
-        <item>Repeat Weekly</item>
-        <item>Repeat Monthly</item>
+        <item>No repetir</item>
+        <item>Repetir dariamente</item>
+        <item>Repetir semanalmente</item>
+        <item>Repetir mensualmente</item>
     </string-array>
 
     <string-array name="repeat_interval_spinner_items">
-        <item>Every</item>
-        <item>Every 2</item>
-        <item>Every 3</item>
-        <item>Every 4</item>
-        <item>Every 5</item>
-        <item>Every 6</item>
-        <item>Every 7</item>
-        <item>Every 8</item>
-        <item>Every 9</item>
-        <item>Every 10</item>
-        <item>Every 11</item>
-        <item>Every 12</item>
-        <item>Every 13</item>
-        <item>Every 14</item>
-        <item>Every 15</item>
-        <item>Every 16</item>
-        <item>Every 17</item>
-        <item>Every 18</item>
-        <item>Every 19</item>
-        <item>Every 20</item>
-        <item>Every 21</item>
-        <item>Every 22</item>
-        <item>Every 23</item>
-        <item>Every 24</item>
-        <item>Every 25</item>
-        <item>Every 26</item>
-        <item>Every 27</item>
-        <item>Every 28</item>
-        <item>Every 29</item>
-        <item>Every 30</item>
-        <item>Every 31</item>
+        <item>Cada</item>
+        <item>Cada 2</item>
+        <item>Cada 3</item>
+        <item>Cada 4</item>
+        <item>Cada 5</item>
+        <item>Cada 6</item>
+        <item>Cada 7</item>
+        <item>Cada 8</item>
+        <item>Cada 9</item>
+        <item>Cada 10</item>
+        <item>Cada 11</item>
+        <item>Cada 12</item>
+        <item>Cada 13</item>
+        <item>Cada 14</item>
+        <item>Cada 15</item>
+        <item>Cada 16</item>
+        <item>Cada 17</item>
+        <item>Cada 18</item>
+        <item>Cada 19</item>
+        <item>Cada 20</item>
+        <item>Cada 21</item>
+        <item>Cada 22</item>
+        <item>Cada 23</item>
+        <item>Cada 24</item>
+        <item>Cada 25</item>
+        <item>Cada 26</item>
+        <item>Cada 27</item>
+        <item>Cada 28</item>
+        <item>Cada 29</item>
+        <item>Cada 30</item>
+        <item>Cada 31</item>
     </string-array>
 </resources>
