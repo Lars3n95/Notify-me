@@ -154,6 +154,10 @@
     <string name="icon_list_icon">Icon</string>
     <string name="color_list_color">Farbe</string>
 
+    <string name="dialog_remove_all_title">Alle Benachrichtigungen entfernen</string>
+    <string name="dialog_remove_all_message">Möchtest du wirklich alle aktuellen Benachrichtigungen entfernen?</string>
+    <string name="dialog_remove_all_yes">Ja</string>
+    <string name="dialog_remove_all_no">Nein</string>
     <string name="dialog_delete_all_title">Lösche entfernte Benachrichtigungen</string>
     <string name="dialog_delete_all_message">Möchtest du wirklich alle entfernten Benachrichtigungen löschen? Das kann nicht rückgängig gemacht werden.</string>
     <string name="dialog_delete_all_yes">Ja</string>
