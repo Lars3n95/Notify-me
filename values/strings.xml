@@ -154,6 +154,10 @@
     <string name="icon_list_icon">Icon</string>
     <string name="color_list_color">Color</string>
 
+    <string name="dialog_remove_all_title">Remove current notifications</string>
+    <string name="dialog_remove_all_message">Do you really want to remove all current notifications?</string>
+    <string name="dialog_remove_all_yes">Yes</string>
+    <string name="dialog_remove_all_no">No</string>
     <string name="dialog_delete_all_title">Delete removed notifications</string>
     <string name="dialog_delete_all_message">Do you really want to delete all removed notifications? They cannot be restored.</string>
     <string name="dialog_delete_all_yes">Yes</string>
